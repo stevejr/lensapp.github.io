@@ -1,13 +1,11 @@
 # End-User License Agreement
 
-> This end-user license agreement applies to the Kontena Lens product. This product was originally developed by Kontena, Inc. Today, all intellectual property rights, trademarks and copyrights of Kontena, Inc. are owned by Lakend Labs, Inc. who is committed in preserving and making available the open source software and products of Kontena. The source code for Kontena Lens is available at https://github.com/lensapp/lens under the MIT license.
-
-This End-User License Agreement (EULA) is a legal agreement between you and Lakend Labs, Inc. It covers the terms and conditions for using Kontena Lens product and any updates that may be made available from time to time ("Software"). The source code for Kontena Lens software is available at https://github.com/lensapp/lens under the MIT license. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS EULA, DO NOT INSTALL, USE OR COPY THE SOFTWARE.
+This End-User License Agreement (EULA) is a legal agreement between you and Lakend Labs, Inc. It covers the terms and conditions for using Lens - Kubernetes IDE product and any updates that may be made available from time to time ("Software"). The source code for Software is available at https://github.com/lensapp/lens under the MIT license. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS EULA, DO NOT INSTALL, USE OR COPY THE SOFTWARE.
 
 ## Summary
 
 - You must agree to all of the terms of this EULA to use this Software. If so, you may use the Software for free and for any lawful purpose.
-- This Software may automatically communicate with Lakend Labs servers to receive and install updates, to send error reports; and to send anonymized usage information. You agree to allow this communication.
+- This Software may automatically communicate with Lakend Labs servers to receive and install updates, and to send anonymized usage information. You agree to allow this communication.
 - This Software is provided "as-is" with no warranties, and you agree that Lakend Labs is not liable for anything you do with it.
 
 ## The Agreement
@@ -37,13 +35,13 @@ The Software may automatically communicate with Lakend Labs servers to perform a
 
 The Software and all worldwide copyrights, trade secrets, and other intellectual property rights therein are the exclusive property of Lakend Labs. Lakend Labs reserves all rights in and to the Software not expressly granted to you in this EULA.
 
-The names Lakend Labs, Kontena, and any related logos and/or stylized names are trademarks of Lakend Labs. You agree not to display or use these trademarks in any manner without Lakend Labs's prior, written permission.
+The Lakend Labs name and any related logos and/or stylized names are trademarks of Lakend Labs. You agree not to display or use these trademarks in any manner without Lakend Labs's prior, written permission.
 
 ## Disclaimers and Limitations on Liability
 
 THE SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, AND NO WARRANTY, EITHER EXPRESS OR IMPLIED, IS GIVEN. YOUR USE OF THE SOFTWARE IS AT YOUR SOLE RISK. Lakend Labs does not warrant that (i) the Software will meet your specific requirements; (ii) the Software is fully compatible with any particular platform; (iii) your use of the Software will be uninterrupted, timely, secure, or error-free; (iv) the results that may be obtained from the use of the Software will be accurate or reliable; (v) the quality of any products, services, information, or other material purchased or obtained by you through the Software will meet your expectations; or (vi) any errors in the Software will be corrected.
 
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT Lakend Labs SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF Lakend Labs HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES) RELATED TO THE SOFTWARE, including, for example: (i) the use or the inability to use the Software; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Software; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third-party on the Software; (v) or any other matter relating to the Software.
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT LAKEND LABS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF LAKEND LABS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES) RELATED TO THE SOFTWARE, including, for example: (i) the use or the inability to use the Software; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Software; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third-party on the Software; (v) or any other matter relating to the Software.
 
 Lakend Labs reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Software (or any part thereof) with or without notice. Lakend Labs shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Software.
 
@@ -52,4 +50,4 @@ Lakend Labs reserves the right at any time and from time to time to modify or di
 - The failure of Lakend Labs to exercise or enforce any right or provision of this EULA shall not constitute a waiver of such right or provision.
 - This EULA constitutes the entire agreement between you and Lakend Labs and governs your use of the Software, superseding any prior agreements between you and Lakend Labs (including, but not limited to, any prior versions of the EULA).
 - You agree that this EULA and your use of the Software are governed under laws of Finland and any dispute related to the Software must be brought in a district court of Helsinki, Finland.
-- Please send any questions about this EULA to info@lakendlabs.com
+- Please send any questions about this EULA to info@k8slens.dev
