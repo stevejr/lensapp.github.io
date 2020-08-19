@@ -389,7 +389,7 @@
     url: 'https://api.github.com/repos/lensapp/lens',
     success: function( data ){
       if(data.stargazers_count && data.forks){
-        $( "#happy-users-count" ).attr( 'data-count', Math.round(data.stargazers_count * 5.13) );
+        $( "#happy-users-count" ).attr( 'data-count', Math.round(data.stargazers_count * 5.98) );
         $( "#stargazers-count" ).attr( 'data-count', data.stargazers_count );
         $( "#forks-count" ).attr( 'data-count', data.forks );
         updateCounters();
