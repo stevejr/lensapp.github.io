@@ -844,6 +844,28 @@ input[type='checkbox'] {
   color: rgba(255,255,255,0.5);
 }
 
+/* top banner */
+.top-banner{
+	padding: 12px 0;
+	background-color: #fff;
+}
+.top-banner p{
+	font-size: 16px;
+	color: #000;
+	margin-bottom: 0;
+}
+.top-banner a{
+	font-weight: 700;
+	color: #000;
+	text-decoration: none;
+}
+.navbar-custom.fixed-top{
+	margin-top: 0;
+}
+.navbar-custom.fixed-top.top-nav-collapse{
+	margin-top: 50px; /* height of top banner */
+}
+
 /****************************/
 /*     05. Testimonials     */
 /****************************/
@@ -1807,6 +1829,13 @@ a:hover.back-to-top {
 }
 /* end of min-width width 768px */
 
+/* Max-width: 768px */
+@media (max-width: 768px){
+	.navbar-custom.fixed-top.top-nav-collapse{
+		margin-top: 68px; /* height of top banner */
+	}
+}
+/* end of Max-width: 768px */
 
 /* Min-width width 992px */
 @media (min-width: 992px) {
