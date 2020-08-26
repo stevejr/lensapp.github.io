@@ -860,10 +860,10 @@ input[type='checkbox'] {
 	text-decoration: none;
 }
 .navbar-custom.fixed-top{
-	margin-top: 0;
+	margin-top: 50px; /* height of top banner */
 }
 .navbar-custom.fixed-top.top-nav-collapse{
-	margin-top: 50px; /* height of top banner */
+	margin-top: 0px; 
 }
 
 /****************************/
