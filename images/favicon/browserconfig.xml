@@ -2,8 +2,8 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="https://k8slens.dev/images/favicon/mstile-150x150.png"/>
-            <TileColor>#3b90ce</TileColor>
+            <square150x150logo src="images/favicon/mstile-150x150.png?v=693PWAx2zB"/>
+            <TileColor>#3d90ce</TileColor>
         </tile>
     </msapplication>
 </browserconfig>
