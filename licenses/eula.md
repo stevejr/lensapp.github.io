@@ -16,6 +16,10 @@ By downloading, installing, using, or copying the Software, you accept and agree
 
 This EULA entitles you to install as many copies of the Software as you want and use the Software for any lawful purpose consistent with this EULA. Your license to use the Software is expressly conditioned upon your agreement to all of the terms of this EULA. This software is licensed, not sold. Mirantis reserves all other rights not granted by this EULA.
 
+## Extensions
+
+The Software may provide an option to use extensions developed by Mirantis or third parties. The use of extensions is subject to their own licenses, and not this agreement. Mirantis does not distribute, license or provide any warranties for any of the third party extensions.
+
 ## The Restrictions
 
 1. When using the Software, you must use it in a manner that complies with the applicable laws in the jurisdiction(s) in which you use the Software.
@@ -29,7 +33,7 @@ This EULA entitles you to install as many copies of the Software as you want and
 The Software may automatically communicate with Mirantis servers to perform automated software updates and usage tracking. These features are designed to ensure the best possible end user experience.
 
 1. Automated Software Updates. The Software may automatically communicate with Mirantis servers to determine whether there are updated version of the Software available. You agree that the Software may be updated automatically on your computer without providing any further notice or receiving any additional consent. You may manually opt-out from automated software updates.
-2. Telemetry Usage Tracking. In the default mode, the Software automatically communicates with Mirantis servers to send certain telemetry data about the usage. This data is collected only for Mirantis legitimate interest and purpose of making the Software better. The telemetry data contain information about user interface events such as: application started, view changed, terminal opened etc. There is no metadata related to the data collected. For avoidance of doubt, no  sensitive data is sent, but some of the data can be qualified as data identifying an individual under various jurisdictions and you may manualy opt-out from usage tracking. The telemetry data does not contain any information about workloads that are actually running in the Kubernetes clusters.  
+2. Telemetry Usage Tracking. In the default mode, the Software automatically communicates with Mirantis servers to send certain telemetry data about the usage. This data is collected only for Mirantis legitimate interest and purpose of making the Software better. The telemetry data contain information about user interface events and generic information about the attached clusters. For avoidance of doubt, no  sensitive data is sent, but some of the data can be qualified as data identifying an individual under various jurisdictions and you may manually opt-out from sending telemetry data. 
 3. More Information. For more information about how Mirantis handles and processes personal information, please visit https://www.mirantis.com/company/privacy-policy/.
 
 ## Intellectual Property Notices
